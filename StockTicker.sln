@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTicker", "StockTicker\StockTicker.csproj", "{C7B48EF8-D902-404C-B5DD-1122666C8AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockService", "StockService\StockService.csproj", "{FACCF345-A932-4C07-BFA1-66B920DDE421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B48EF8-D902-404C-B5DD-1122666C8AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B48EF8-D902-404C-B5DD-1122666C8AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B48EF8-D902-404C-B5DD-1122666C8AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B48EF8-D902-404C-B5DD-1122666C8AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FACCF345-A932-4C07-BFA1-66B920DDE421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACCF345-A932-4C07-BFA1-66B920DDE421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACCF345-A932-4C07-BFA1-66B920DDE421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACCF345-A932-4C07-BFA1-66B920DDE421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
